@@ -1,2 +1,1 @@
-# MoblifyUI
-A UI kit made for moblify!
+#Documentation Comming Soon!
